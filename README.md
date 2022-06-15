@@ -1,2 +1,2 @@
-# CS125FinalProject- Architecture AR
+# Architecture AR
 
